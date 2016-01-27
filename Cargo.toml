@@ -1,0 +1,9 @@
+[package]
+name = "outcomes"
+version = "0.1.0"
+authors = ["Michel Le Quer <michel@mlequer.com>"]
+
+[dependencies]
+docopt          = "0.6"
+rustc-serialize = "0.3"
+term            = "0.2"
