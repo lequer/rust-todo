@@ -1,5 +1,5 @@
 [root]
-name = "outcomes"
+name = "todos"
 version = "0.1.0"
 dependencies = [
  "docopt 0.6.78 (registry+https://github.com/rust-lang/crates.io-index)",

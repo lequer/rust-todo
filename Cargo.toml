@@ -1,5 +1,5 @@
 [package]
-name = "outcomes"
+name = "todos"
 version = "0.1.0"
 authors = ["Michel Le Quer <michel@mlequer.com>"]
 
